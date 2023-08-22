@@ -1,0 +1,7 @@
+D:\day 9\Lbrary\Lbrary\bin\Debug\Lbrary.exe.config
+D:\day 9\Lbrary\Lbrary\bin\Debug\Lbrary.exe
+D:\day 9\Lbrary\Lbrary\bin\Debug\Lbrary.pdb
+D:\day 9\Lbrary\Lbrary\obj\Debug\Lbrary.csproj.AssemblyReference.cache
+D:\day 9\Lbrary\Lbrary\obj\Debug\Lbrary.csproj.CoreCompileInputs.cache
+D:\day 9\Lbrary\Lbrary\obj\Debug\Lbrary.exe
+D:\day 9\Lbrary\Lbrary\obj\Debug\Lbrary.pdb
